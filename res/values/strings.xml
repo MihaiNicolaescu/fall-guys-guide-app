@@ -1,0 +1,201 @@
+<resources>
+    <string name="app_name">Fall Guys Guide</string>
+    <string name="gates">Gates guide</string>
+    <string name="gates_help">Gates Help</string>
+    <string name="back">Back</string>
+    <string name="see_saw">See Saw</string>
+    <string name="roll_out">Roll Out</string>
+    <string name="hit_parade">Hit Parade</string>
+    <string name="background">background</string>
+    <string name="block_party">Block Party</string>
+    <string name="rock">Rock \'N\' Roll</string>
+    <string name="egg_scramble">Egg Scramble</string>
+    <string name="dizzy_heights">Dizzy Heights</string>
+    <string name="hoopsie_daisy">Hoopsie Daisy</string>
+    <string name="whirlygig">The Whirlygig</string>
+    <string name="slime_climb">Slime Climb</string>
+    <string name="fruit_chute">Fruit Chute</string>
+    <string name="jump_club">Jump Club</string>
+    <string name="hoarders">Hoarders</string>
+    <string name="fall_ball">Fall Ball</string>
+    <string name="jinxed">Jinxed</string>
+    <string name="tip_toe">Tip Toe</string>
+    <string name="tail_tag">Tail Tag</string>
+    <string name="team_tail_tag">Team Tail Tag</string>
+    <string name="royal_fumble">Royal Fumble</string>
+    <string name="fall_mountain">Fall Mountain</string>
+    <string name="hex_a_gone">Hex A Gone</string>
+    <string name="jump_showdown">Jump Showdown</string>
+    <string name="door_dash">Door Dash</string>
+    <string name="gate_crash">Gate Crash</string>
+    <string name="perfect_match">Perfect Match</string>
+
+    <string name="perfect_match_text">
+        1. Always stay on the thing, that is the hardest for you to remember. Let\'s say there are 3 different fruit tiles: grapes, melons and bananas. I would personally prefer to stay on the grapes and remember a melon and banana tile. If I have to, I will jump onto the right tile.\n\n
+        2. There isn\'t much more to say about this game, since it is fairly easy. If you want to be a little bit mean though, you can always jump onto a wrong tile first and save yourself with a dive-jump onto the right tile in the last second. You will easily get Fall Guys eliminated, who are just following others.
+    </string>
+    <string name="gate_crash_text">
+        1. Always run towards the closed gates, they will be open by the time you arrive there. It can take a little bit of time to get used to the timing of the gates, but it will help you a lot with being one of the first Fall Guys to reach the slide.\n\n
+        2. Do the same thing at the slide. Once you are halfway down the slide check for the closed gate(s) and slide towards them. Don\'t forget to jump!\n\n
+        3. Dive-jumping can help you get over gates, which started to close up already.
+    </string>
+    <string name="door_dash_text">
+        1. Try to stay a little bit behind and let the other Fall Guys figure out which door is the right one.\n\n
+        2. If multiple doors have been dashed already, always take the path with less Fall Guys following the same route.\n\n
+        3. You are less likely to fall over while dive-jumping through the open gates.\n\n
+        4. If you are one of the first Fall Guys to reach the last 3 doors, either risk a worse placement and jump through a door of your choice or stay behind for a bit and dive-jump through the right gate, once the other Fall Guys have figured it out.
+    </string>
+    <string name="jump_showdown_text">
+        1. It is possible to jump over empty slots with the size of one tile. Walk up to one of the top-most corners of your tile and try to dive-jump onto the tile next to you.\n\n
+        2. When you are trying to jump over to the next available tile, try to time it so that the bar is right in between your tile and the tile that you want to jump on, if there is one incoming.\n\n
+        3. Use the full potential of your tile at all times. I have seen people fall off the last tile, because they wouldn\'t position themselves in a way to make the jump.\n\n
+        4. The smartest way to jump over the bar would be to walk towards it, as you will pass it and it will pass you more quickly. However, still consider the movement and timing of the top bars to not get hit by them.\n\n
+        5. If you are on one of the last tiles and both of the bars come at you while being stacked on top of each other, try to walk to the far side of your tile and jump so that the bottom bar will hit your \"legs\" first and fling you right behind itself. This doesn\'t always work and should only be used when there is no other escape left.
+    </string>
+    <string name="hex_a_gone_text">
+        1. If there is a free tile right at the start of the match, try to jump onto it.\n\n
+        2. Try to avoid dive-jumping as much as possible, as it can sometimes take too long to get back onto your feet, which will cause you to fall down a floor.\n\n
+        3. When you are at a lower floor than your opponents, try to make one big hole instead of multiple small holes. If you get lucky, someone from above might fall right through your hole.\n\n
+        4. If you are one of the players who managed to stay on the top floors, use the slow jump trick. There is a certain amount of time that you can stay on a tile before it will start \"crumbling\". Wait till the tile that you are staying on starts to crumble and only then jump to the next one. While you are doing this, keep your mouse at an angle so that you can spot free tiles below you, as you will eventually have to drop down one floor.
+    </string>
+    <string name="fall_mountain_text">
+        1. This game is quite fun, but can be random at times. It depends on a lot of factors like your spawn position, the obstacles that get thrown your way and so on.\n\n
+        2. When passing through the spinning gates make sure that there is no rock incoming, because it will either hit you and throw you back or hit the other side of the gate and lose you your momentum right after flinging you away.\n\n
+        3. Once you are at the rotating hammers, wait until one of them is right infront of you and then start walking through it. You will avoid getting hit this way. It is important that you jump towards the direction that the hammer is spinning, because in the case that you get hit, you will at least be boosted forward a bit.\n\n
+        4. As for the crown, patience is key yet again. Wait until it is at a height at which you can grab it or jump and grab it.\n\n
+        5. Do NOT dive-jump towards the crown. It won\'t allow you to grab it.
+    </string>
+    <string name="royal_fumble_text">
+        1. While this is still a Tail Tag game, there is only one tail this time around.\n\n
+        2. If you start with the tail, just try to stay ahead of everyone else by using the map to your advantage. Use the jumps and try to get the Fall Guys following you hit by the swinging balls or get a good boost on the rotating mats.\n\n
+        3. If you start without the tail, try and follow the tail holder. It is important to cut the them off. You don\'t have to follow them up every ramp, especially if other Fall Guys are already doing that. Just stay on the bottom floor and keep your eyes on the direction that the tail holder is heading. There is a good chance that they will slip and fall, once they jump to the bottom floor. Thats when you should try and grab it.\n\n
+        4. Additionally, most of the Fall Guys should be crowded up in an area within the last 30 seconds of the game if you are lucky. Try to stay right behind that crowd and grab the tail whenever you see some Fall Guys slipping, falling behind and the tail switching owners a lot. As soon as you have the tail, try and walk the remaining seconds in a mostly straight path to keep your momentum.
+    </string>
+    <string name="team_tail_tag_text">
+        1. As in all team games, your success doesn\'t rely on you alone.\n\n
+        2. Try to stay calm and play it smart.\n\n
+        3. Fall Guys with a tail will usually hide right next to the base of the swinging/rotating hammers. Stay infront of one and start walking towards the hiding Fall Guys, once the hammer is right infront of you. This will make sure that you won\'t get hit.\n\n
+        4. Don\'t try to aggro your way to the Fall Guys hiding there. You will usually end up getting hit multiple times and the Fall Guys will manage to flee by the time that you are on your feet again.\n\n
+        5. If you are one of the Fall Guys with a tail, try and cut corners. I see a lot of people just regulary walking up the ramps to the top floors. This is about life and death, if you want to take clean corners play Assetto Corsa or Forza.\n\n
+        6. In case that you have a tail and Fall Guys are catching up with you, use the hammers at the corners for your own good and let them yeet you into the middle of the bottom floor of the map.
+    </string>
+    <string name="tail_tag_text">
+        1. It can be frustrating when you grab other Fall Guys, but the game doesn\'t give you the tail. Keep your calm and focus on what\'s important.\n\n
+        2. This doesn\'t happen as often, but there usually will be one or two Fall Guys running in circles in the middle of the map, right under the ramps. Walk counter-clockwise to them and spam your grab key, you might get lucky.\n\n
+        3. Also in the middle of the map, there will definitely be Fall Guys hiding right at the base of the hammer. Don\'t rush it and wait until the hammer is right infront of you, before you start walking towards the base. This will avoid you getting hit.\n\n
+        4. Once you have the tail yourself, there isn\'t much else that you can do. Go and hide at the base of the hammer or walk in circles under the ramps.
+    </string>
+    <string name="tip_toe_text">
+        1. This is another easy game. Just stay back and let the other Fall Guys do most or all of the work.\n\n
+        2. You will most likely get pushed onto other tiles (which are probably going to be the wrong ones) by other Fall Guys. Because of this, try to not be on the latest discovered tile and stay back for a little bit.\n\n
+        3. It is possible to skip the last line of tiles and dive-jump right into the finish line.\n\n
+        4. If you feel lucky, you can try to rush the last 2 lines of tiles and get to be first place. For this, try to hit the correct tile in the second-to-last line and dive-jump to skip the last line of tiles, as described in tip no 3. Remember that you will be spawned at the starting point, if you risk it and hit a wrong tile.\n\n
+        5. If you wait for long enough, you will notice that some of the tiles do shake. The shaky tiles are the ones that will crumble, once you step onto them. It can be a good idea to observe the shaky tiles and figure out which ones are actually solid. This is highly useful, once you hit the last 2 rows of tiles.
+    </string>
+    <string name="jinxed_text">
+        1. For some reason, the rotating mats seem to be the safest places at the start of this game. Get onto one and jump into the purple middle part of it, so that you won\'t get spun around.\n\n
+        2. As the number of the jinxed Fall Guys increases, your rotating mat will eventually get unsafe. At this point there should be jinxed players all over the map though, so your best option is to just keep running towards regular people, empty places or pass jinxed players who are focused on hunting other Fall Guys.\n\n
+        3. You can make the jump without falling into the trenches. Just dive-jump as usual. Bonus points if you get any other Fall Guys hit by the swinging balls (not actually, but it\'s fun).\n\n
+        4. Another good way of doing this is to let the enemy infect you so that you can start infecting everyone else yourself.
+    </string>
+    <string name="fall_ball_text">
+        1. You can \"kick\" a ball into another to move both towards your enemies goal.\n\n
+        2. It is important to always have someone at both balls. If your entire team is focusing on one ball, it might be a good idea to solo the other one or play goalkeeper for a bit.\n\n
+        3. After scoring a goal stay right under a newly spawning ball (on the shadow) and jump and hit it at the back part to kick it towards the goal of the enemies. Doing this will sometimes grant the ball to slide right into the goal of the enemies with high momentum.
+    </string>
+    <string name="hoarders_text">
+        1. It\'s generally a good idea to focus on the balls with less people around them. Chances are that the balls with crowds of Fall Guys fighting for them are either gonna get stolen or launch into a totally different direction.\n\n
+        2. If any of your teammates is alone at a ball, drop the one you are dealing with and go help them. You will much more likely be successful in stealing one this way.\n\n
+        3. When there is a crowd of people rolling a ball out of your spawn, judge for yourself if it is really worth trying to fight them. Your strengths might be more useful elsewhere.\n\n
+        4. You don\'t necessarily need to get the balls into your own spawn. Let\'s say you are in team blue.\n\n
+        Example Score: Blue: 2 - Red: 2 - Yellow: 5\n\n
+        Chances are team yellow are still trying to steal balls out of team red\'s base or defending their own balls from getting stolen by team red. Why not keep the two balls in your base and help team yellow to make the score 2 - 1 - 6 or even 2 - 0 - 7.
+    </string>
+    <string name="jump_club_text">
+        1. The pink bar is not going to hit you, unless you are mid-air.\n\n
+        2. You don\'t have to walk into one direction only. If you notice that the green bar will be right under the pink one, it might be a good idea to walk clockwise and give the green bar time to move further out. Similary, you can walk counter-clockwise and right under the pink bar, if you feel like there is going to be a lot of space to jump over the green bar that way.\n\n
+        3. If you ever get into a tricky situation where the green bar is right under the pink one, you can try to time your jump so that the green bar will hit your lower body and flip you right behind itself.\n\n
+        4. It is actually possible to always position yourself in a situation where you will never get stuck with the green or pink bar, no matter how fast either of them are moving. Simply follow a pink bar clockwise and make sure that one of the pink bars is slighty ahead of you, not behind. When the green bar comes for you, jump it, then let the pink bar behind you catch up until it\'s ahead of you again. Repeat this process every time and you will never have to deal with both, the green and the pink bar at the same time again.
+    </string>
+    <string name="fruit_chute_text">
+        1. Always stay to the far left or the far right.\n\n
+        2. Move your mouse upwards, until you have the best possible view onto the incoming objects.\n\n
+        3. Identify incoming fruits and items and adjust your position whenever you have to.\n\n
+        4. Try to not hit the bouncy, pink triangles. They will take all your momentum away and possibly make you slip and fall behind.\n\n
+        5. Keep your view up as high as possible once you reach the top, it is still possible for fruits to hit and knock you back.
+    </string>
+    <string name="slime_climb_text">
+        1. It is possible to jump onto the yellow, bouncy triangles at the very beginning of this game, but it is fairly possible to slip and fall with all the other Fall Guys that are going to be trying that. I would recommend just dive-jumping onto the higher platform right next to it.\n\n
+        2. Stay at the far right side, you should be safe from the balls there.\n\n
+        3. It is possible to dive-jump onto the coinpusher platform, but this is only really useful when they are opening up the path, as you will be waiting for them to do so otherwise.\n\n
+        4. If the last coinpusher gets too close to you just dive-jump onto the ramp to the next platform.\n\n
+        5. Start at the far right side of the conveyor belt and try to hold your line. Whenever you need to avoid an obstacle either walk backwards or turn left. Because the conveyors movement is to left, you will be much faster walking to the left as well.\n\n
+        6. Don\'t be scared to make big jumps onto the yellow logs. Try to always hit the middle of them.\n\n
+        7. There is enough room to navigate through the slidey slime without getting hit by the hammers. It is also possible to dive-jump onto the small coinpusher platform at the far back, right corner.\n\n
+        8. Be patient at the small coinpushers. Chances are that you will be pushed down again, if you try to skip more than 2 at a time.\n\n
+        9. As with other games, don\'t be scared to walk backwards to \"brake\" your momentum and steer away from the moving objects. In case that you got hit and are about to fall down, try to dive-jump around the corner, right to before the swinging balls.\n\n
+        10. If you don\'t have enough momentum by the time you reach the swinging balls, don\'t be too impatient stop right in between them.
+    </string>
+    <string name="whirlygig_text">
+        1. Walk counter-clockwise the direction that the bars are rotating. It will be easy to spot and jump over them.\n\n
+        2. It is possible to be flung far enough to get an advantage. For this, you should try to get hit clockwise by the bars. Note that this is based on luck and that tip #1 probably is the better way to do this though.\n\n
+        3. Either use the boost pad and climb up the wall or DON\'T use the boost pad and do a small jump onto the yellow box to then quickly dive-jump onto the next platform.\n\n
+        4. Alternatively, instead of jumping onto the platforms or climbing the wall, you can actually walk down the boost pad and dive-jump as soon as you reach the end of the pad. Doing this, you can manage to get onto the high platform and avoid the crowd of Fall Guys down below altogether.\n\n
+        5. At the three fan section, dive-jump through the blades just as one of them is passing you to not get hit by it. The fans have small gaps at the bottom left and right spots so try to jump through at these positions.\n\n
+        6. If you get lucky, the middle path can be the quickest. Most of the time the paths to the left or right will be the fastest ones though. If you want to be safe, you can dive-jump all of the platforms. It is only necessary at the last, big jump however. The last jump can be done without a dive-jump too, but it is quite risky to perform a regular jump there.\n\n
+        7. In case that you want to risk it and take the middle path, stay to the far left side of the conveyor belt and try to dive-jump through the blades. There is enough space to squeeze right through them and even if you get hit by the blades, you will have a higher chance of surviving, since the blade will usually just fling you into the middle of the conveyor belt instead of down the right side of the conveyor ramp.
+    </string>
+    <string name="hoopsie_daisy_text">
+        1. Find yourself a fairly empty place, if you are able to.\n\n
+        2. Focus on an area and try to be the first to jump through the hoops. As example, take the ramps to the far right or left side of the map and walk them up whenever there is a hoop spawning. You can also jump through the hoops that will eventually spawn infront of the ramps.\n\n
+        3. If you can observe your surroundings well and have a good reaction time, the ramps in the bottom or upper center of the map are preferrable spots to focus on. Whenever the hoops start to spawn next to or in between the big ramps, walk them up and jump dive-jump through them. You can additionally check the areas in between the center and side ramps and try to catch one or two of them too.
+    </string>
+    <string name="dizzy_heights_text">
+        1. At the very start of the map, you can use the bouncy, yellow triangles for a small jump boost. However, I do recommend against using this, because it is not necessarily faster than just taking the regular paths.\n\n
+        2. Face the direction that the platform you will be jumping on is spinning towards. If you face the other direction, the force will pull your legs away and make you slip.\n\n\
+        3. Depending on the spawns of the balls, it might be faster to use all four rows of hiding spots and avoid the balls in a zigzag path. Either way, patience is key in this area.\n\n
+        4. Don\'t forget to jump onto the last spinning platforms and yet again, face the direction that the platforms are spinning towards.\n\n
+        5. Stay to the far left or right while running up the last ramp.
+    </string>
+    <string name="egg_scramble_text">
+        1. If you can get a golden egg right at the start that\'s good, but you shouldn\'t force it and focus on getting a lot of eggs into your \"basket\" first.\n\n
+        2. You don\'t need to jump down into your basket every time. Just walk up to your nest, jump and let go of the grab key with an egg in your hands. Chances are it will either fly or roll right into it.\n\n\
+        3. Same goes for when you are in an enemies basket. Just hold on to an egg, walk a little bit forward, jump and release the grab key. The eggs will most likely get stuck on the top part of their basket (which doesn\'t count it anymore) or they will roll right out and down the middle again.\n\n\
+        4. It can be worthwhile to just stay in the nest and hold onto the golden egg(s), making it harder for other players to pick them up. Most of the time they will give up trying to steal the golden egg(s) and just take a normal one instead. The egg(s) can still slip out of your hands while fighting for it, but they should usually just land in the nest again. It is something to consider, though.
+    </string>
+    <string name="rock_text">
+        1. You don\'t need to dive-jump in this game, it is much more helpful to just stay right behind the rock/ball and walk towards it.\n\n
+        2. Be the one to organize your team. Whenever an obstacle is coming up, be the first to push the ball from the right side to the left, or from the left side to the right. If your teammates are already trying to avoid an obstacle by pushing the ball away, don\'t play against them and help them steer the ball.\n\n
+        3. Similary, if the ball has decided it\'s own path don\'t fight it. The ball is holy and knows it\'s own place. You should rather stay to the left or right of the ball and steer it in a way, that it won\'t hit an obstacle within it\'s own path.\n\n
+        4. It is pretty tough to get your ball rolling again, once another team decides to block it. Observe your teammates and try to be helpful. If most of your team is trying to keep the ball rolling, go and grab and pull on the Fall Guys blocking your ball. Otherwise try to steer the ball away from the fighting Fall Guys and try to get it rolling again.\n\n
+        5. Additionally, if your ball is being stopped by other players, try to get behind it and push + jump at the ball. It should roll right over their heads, allowing you to pass them.
+
+    </string>
+    <string name="block_party_text">
+        1. There will be a lot of grabbing on this map. Just try to stay centered on the mat and only jump if you have to. Don\'t jump into other Fall Guys, as that might bounce you off of them and down the mat.\n\n
+        2. Dive-jump to the sides whenever a block with clear sides is coming up to avoid getting grabbed or pushed.\n\n
+        3. Try to walk a little bit forward and pass through blocks with small gaps at the very front of the mat. This will avoid you falling down because of other Fall Guys or them blocking/pushing you away from the gaps.\n\n
+        4. Similary, whenever blocks with jumps start appearing, try and move forward or backward on the mat (depending on where there is a free spot) and do your jumps without any other Fall Guys running into you.
+    </string>
+    <string name="hit_parade_text">
+        1. At the very start of the game try to be one of the first Fall Guys to be on the planks or let one or two people pass and have an easy walk over them.\n\n
+        2. Don\'t be scared to make a big jump towards the middle of the orange plank.\n\n
+        3. Alternatively, you can try and dive-jump down the slidey ramp, right at the beginning of the game. It usually is as fast as just walking over the planks and depending on how quickly your Fall Guy recovers, you might be able to be the first to reach the opening and closing gate. It is also possible to just barely make it through the gate.\n\n
+        4. It isn\'t worth fighting against a horde of Fall Guys at the spinning gates. Take the path that they are taking, because the gate will rotate their way.\n\n
+        5. Try to dive-jump through the opening and closing gate, even if there is a mass of other Fall Guys around. You would be waiting for them to pass it either way, but can get lucky enough to dive-jump right through it.\n\n
+        6. Always take a look at where the swinging balls are. If you have to take a step back. It would take much longer to stand up and try it again instead of letting the ball pass for a second.\n\n
+        7. Same goes for the slidey ramp. Try to not hit other Fall Guys or the bouncy objects, as you will lose all your momentum. Quickly walk down for a second and go up again, if one of the moving objects comes dangerously close to you. It is much better to take a second or two to recover than to lose your momentum and slide down the ramp.\n\n
+        8. Also, when trying to get up the slimey ramp, try to stay at the far left or far right side of the ramp. The bouncy, moving objects will NOT be able to hit you there, as they won\'t be moving that far into the sides.
+    </string>
+    <string name="see_saw_text">
+        1. Patience is key. Wait until the platform balances out before you jump onto it.  \n\n
+        2. If you absolutely have to get to the next platform, even if it is steep, do NOT jump if you are able to get onto it without doing so. When you jump onto a steep platform it increases your chance of slipping and falling down, which resets you at your last checkpoint. Letting yourself fall onto a steep platform will NOT cause you to slip, except for when it\'s too steep.  \n\n
+        3. Don\'t wait for others to balance the platforms out, whenever you need to move towards the other end. Keep your patience and don\'t jump off too early.  \n\n
+        4. Whenever you jump onto one of the checkpoint platforms (the ones with the arrows), even if you just hit the side or very front of it and then fall down, the checkpoint will still activate and you\'ll be teleported a little bit further ahead after respawning. This is a risky tactic, as hitting the platform too low won\'t activate the checkpoint, but it can help with barely escapable situations for sure.  \n\n
+        5. Also, when leaving a checkpoint platform, if a Fall Guy is next to a wall, you can use them to jump onto said wall. This might give you an advantage with jumping onto tilted platforms, but is slightly risky because you could always fall off the other side.
+    </string>
+    <string name="roll_out_text">
+        1. Use the full potential of your roll. You don\'t have to switch to another one, as soon as yours starts to roll you off. You can just walk reverse the direction that your roll is rolling until a hole or obstacle is about to come up. That\'s the time to switch and do it all over again. \n\n
+        2. If any other Fall Guys try and grab you, stay on top of the rolls and get to the center. Try to stay safe while they get bored of holding onto you, and if they don\'t try to jump away from them. Important: Don\'t jump into them/their direction, because that might bounce you right off of the rolls. \n\n3. If you are about to fall off the rolls, try to dive-jump onto one that\'s rolling upwards with an obstacle or wall on it.
+    </string>
+</resources>
